@@ -1,0 +1,28 @@
+.dew {
+  width: 245px;
+  height: 230px;
+}
+.friends:hover {
+  width: 125px;
+  height: 70px;
+  margin: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.africa:hover {
+  width: 150px;
+  margin: 10px;
+  cursor: pointer;
+  font-size: 15px;
+}
+.norway:hover {
+  font-size: 30px;
+  color: ;
+  background-color: ;
+}
+.air {
+  cursor: pointer;
+}
+.dew {
+  cursor: pointer;
+}
